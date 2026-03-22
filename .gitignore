@@ -1,0 +1,5 @@
+# .gitignoreファイル（Gitに無視させるリスト）
+
+.env
+firebase-key.json
+__pycache__/

@@ -1,0 +1,45 @@
+{
+    "system_last_updated": "2026-03-22 18:30:00",
+    "currencies": {
+        "USD": {
+            "total_score": 80,
+            "last_updated": "2026-03-22 18:30:00",
+            "categories": {
+                "Monetary_Policy": {
+                    "score": 80,
+                    "timestamp": "2026-03-22 18:30:00",
+                    "momentum": "high",
+                    "phase": "fact",
+                    "latest_reason": "FRB議長が年内の追加利上げを示唆したため。"
+                },
+                "Economic_Data": {
+                    "score": 0,
+                    "timestamp": "2026-03-20 21:30:00",
+                    "momentum": "low",
+                    "phase": "rumor",
+                    "latest_reason": ""
+                },
+                "Geopolitics": {
+                    "score": 0,
+                    "timestamp": "",
+                    "momentum": "neutral",
+                    "phase": "",
+                    "latest_reason": ""
+                }
+            }
+        },
+        "JPY": {
+            "total_score": -60,
+            "last_updated": "2026-03-22 10:00:00",
+            "categories": {
+                "Monetary_Policy": {
+                    "score": -60,
+                    "timestamp": "2026-03-22 10:00:00",
+                    "momentum": "high",
+                    "phase": "rumor",
+                    "latest_reason": "日銀のマイナス金利解除見送りの観測報道。"
+                }
+            }
+        }
+    }
+}

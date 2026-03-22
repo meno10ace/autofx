@@ -1,0 +1,4 @@
+google-generativeai
+pinecone
+firebase-admin
+python-dotenv

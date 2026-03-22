@@ -1,0 +1,40 @@
+{
+  "system_last_updated": "",
+  "currencies": {
+    "USD": {
+      "total_score": 0,
+      "categories": {
+        "Monetary_Policy": {
+          "score": 80,
+          "timestamp": "2026-03-19 20:22:24",
+          "latest_reason": "3日前：FRB議長がタカ派発言"
+        },
+        "Economic_Data": {
+          "score": -40,
+          "timestamp": "2026-03-21 20:22:24",
+          "latest_reason": "1日前：米指標が予想を下振れ"
+        }
+      }
+    },
+    "JPY": {
+      "total_score": 0,
+      "categories": {
+        "Monetary_Policy": {
+          "score": -60,
+          "timestamp": "2026-03-20 20:22:24",
+          "latest_reason": "2日前：日銀が緩和維持を決定"
+        }
+      }
+    },
+    "EUR": {
+      "total_score": 0,
+      "categories": {
+        "Monetary_Policy": {
+          "score": 50,
+          "timestamp": "2026-03-22 08:22:24",
+          "latest_reason": "12時間前：ECB利上げ示唆"
+        }
+      }
+    }
+  }
+}
